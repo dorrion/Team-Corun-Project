@@ -35,4 +35,19 @@ Corun팀 소개 사이트를 리액트로 구현하는 팀 프로젝트 입니�
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
+</br>
+
+## ✏️Code Convention
+
+- Camel Casting
+: const camelCase 형식으로 작성해주세요.
+
+- Components -> Pascal Case
+: 컴포넌트 이름의 첫 글자는 대문자로 작성해주세요.
+
+- 이벤트 핸들러 네이밍
+: 이벤트 함수 이름은 handle로 시작해주세요. (ex. handleClick())
+
+- Styled Components
+: 모든 styled 변수는 해당 컴포넌트 파일에 정의해주세요.
 
