@@ -51,3 +51,9 @@ Corun팀 소개 사이트를 리액트로 구현하는 팀 프로젝트 입니�
 - Styled Components
 : 모든 styled 변수는 해당 컴포넌트 파일에 정의해주세요.
 
+
+
+## ✨Using package
+
+- axios
+- styled components
