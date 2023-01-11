@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "김오은",
+    "profile": "image/profile01_oheun.jpg",
+    "strength": "안녕하세요 저는 실패를 두려워하지 않는 개발자 김오은입니다.\n 제가 좋아하는 것은 머릿 속에 그려지는 것을 시각적으로 보이도록 구현하는 것입니다.\n제 취미는 사진 찍기, 영상 편집입니다.",
+    "role": "저는 이번 프로젝트에서 구성원 소개와 관련된 컴포넌트를 구현하였습니다.\n 어려웠던 부분은 상태 관리와 git이었습니다. \n 배운 점은 어쩌구 입니다.",
+    "github": "https://github.com/dorrion",
+    "blog": "https://oncode.tistory.com/"
+  },
+  {
+    "id": 2,
+    "name": "박성훈",
+    "profile": "image/profile02_sunghoon.jpg",
+    "strength": "프론트엔드 개발자로써 감각적이고 동적인 웹사이트를 구현할 수 있습니다.\n 취미로 2년간 모션그래픽 제작 경험이 있기때문에, \n 그 경험을 바탕으로 사용자가 매력적으로 느낄 수 있는 동적인 웹사이트를 구현할 수 있습니다.\n 또한, 절대 포기하지 않는 끈기를 가지고 있어, \n어떤 어려운 상황에서도 끝까지 담당한 애플리케이션 및 기능을 구현할 수 있습니다.",
+    "role": "### 역할\n 이번 Team-Corun 프로젝트에서 프로젝트 리드와 팀소개, 사용기술 스택정보와 관련된 컴포넌트 구현을 담당하였습니다. \n### 어려움\nJIRA를 처음 도입하여 시스템을 갖추는 것이 쉽지 않았습니다.\n처음 사용하는 협업 툴이었고, 많이 생소했기 때문에 주변 개발자들의 자문을 구하며 스스로 기능을 파악하는데 많은 시간을 투자해야 했습니다.\n클론코딩이 아닌 직접 기획, 디자인, 구현을 진행하며 2주안에 프로젝트를 완성시키는 것이 많이 어려웠던 것 같습니다.\n### 배운점\nJIRA를 통한 협업 프로세스에 대해서 직접 프로젝트를 리드해보며 많이 배울 수 있었고, 프로젝트 리더로써 프로젝트 초기셋팅 방법, Git commit 충돌에 대한 대처법에 대해서 많이 배울 수 있었습니다.\n또한, 이번 프로젝트를 통해 Framer Motion 라이브러리에 대해서 공부할 수 있었는데, 이를 통해 더욱 동적이고 감각적인 애플리케이션을 구현할 수 있게 되었습니다.",    "github": "https://github.com/hun0613",
+    "blog": "https://velog.io/@hun0613"
+  },
+  {
+    "id": 3,
+    "name": "박여울",
+    "profile": "image/profile03_yeowool.jpg",
+    "strength": "안녕하세요 저는 실패를 두려워하지 않는 개발자 김오은입니다.\n 제가 좋아하는 것은 머릿 속에 그려지는 것을 시각적으로 보이도록 구현하는 것입니다.\n제 취미는 사진 찍기, 영상 편집입니다.",
+    "role": "Front Developer",
+    "github": "https://github.com/dorrion",
+    "blog": "https://oncode.tistory.com/"
+  },
+  {
+    "id": 4,
+    "name": "유은비",
+    "profile": "image/dummyProfile.jpg",
+    "strength": "안녕하세요 저는 실패를 두려워하지 않는 개발자 김오은입니다.\n 제가 좋아하는 것은 머릿 속에 그려지는 것을 시각적으로 보이도록 구현하는 것입니다.\n제 취미는 사진 찍기, 영상 편집입니다.",
+    "role": "Front Developer",
+    "github": "https://github.com/dorrion",
+    "blog": "https://oncode.tistory.com/"
+  },
+  {
+    "id": 5,
+    "name": "최담은",
+    "profile": "image/dummyProfile.jpg",
+    "strength": "안녕하세요 저는 실패를 두려워하지 않는 개발자 김오은입니다.\n 제가 좋아하는 것은 머릿 속에 그려지는 것을 시각적으로 보이도록 구현하는 것입니다.\n제 취미는 사진 찍기, 영상 편집입니다.",
+    "role": "Front Developer",
+    "github": "https://github.com/dorrion",
+    "blog": "https://oncode.tistory.com/"
+  }
+]
